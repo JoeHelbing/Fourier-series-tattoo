@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Joe Helbing <joehelbing@gmail.com>"]
+channels = ["conda-forge"]
+name = "Fourier-series-tattoo"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+jupyter = ">=1.1.1,<2"
+manim = ">=0.19.0,<0.20"
+pandas = ">=2.3.2,<3"

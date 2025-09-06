@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/joehe/ttop/Fourier-series-tattoo/media/videos/fourier_scene/480p15/partial_movie_files/NutsFourierScene/1185818338_3720128763_846873414.mp4'
+file 'file:/home/joehe/ttop/Fourier-series-tattoo/media/videos/fourier_scene/480p15/partial_movie_files/NutsFourierScene/624642324_610850631_3374637793.mp4'
+file 'file:/home/joehe/ttop/Fourier-series-tattoo/media/videos/fourier_scene/480p15/partial_movie_files/NutsFourierScene/624642324_2449613945_2678489028.mp4'
