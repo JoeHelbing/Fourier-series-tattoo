@@ -1,0 +1,2 @@
+- pixi is the environment manager
+- `pixi run` is how you run scripts
